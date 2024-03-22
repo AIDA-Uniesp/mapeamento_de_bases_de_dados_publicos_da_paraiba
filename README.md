@@ -22,3 +22,11 @@
 
 > não possui dados abertos
 
+## Cabedelo
+
+|Dado|Fonte|Aberto|Detalhado|Tipo|Data Atualização|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Receitas](https://cabedelo.pb.gov.br/portal-da-transparencia/receitas/)|Portal da Transparência|sim|sim|csv|03/2024|
+|[Despesas](https://cabedelo.pb.gov.br/portal-da-transparencia/despesas/)|Portal da Transparência|sim|sim|csv|03/2024|
+
+
