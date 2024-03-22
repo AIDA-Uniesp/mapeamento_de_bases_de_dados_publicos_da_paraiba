@@ -17,3 +17,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Receitas](https://santarita.pb.gov.br/portal-da-transparencia/receitas-orcamentarias/)|Portal da Transparência|não|não|csv|03/2024|
 |[Despesas](https://santarita.pb.gov.br/portal-da-transparencia/despesas-orcamentarias/)|Portal da Transparência|sim|não|csv|03/2024|
+
+## Bayeux
+
+> não possui dados abertos
+
