@@ -29,4 +29,13 @@
 |[Receitas](https://cabedelo.pb.gov.br/portal-da-transparencia/receitas/)|Portal da Transparência|sim|sim|csv|03/2024|
 |[Despesas](https://cabedelo.pb.gov.br/portal-da-transparencia/despesas/)|Portal da Transparência|sim|sim|csv|03/2024|
 
+## Pedra de Fogo
+
+|Dado|Fonte|Aberto|Detalhado|Tipo|Data Atualização|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Pagamentos de despesas](https://www.pedrasdefogo.pb.gov.br/transparencia-inicio/despesa-pagamento)|Portal da Transparência|sim|não|csv|03/2024|
+|[Despesa Orçamentária](https://www.pedrasdefogo.pb.gov.br/transparencia-inicio/despesa-or%C3%A7ament%C3%A1ria)|Portal da Transparência|sim|não|csv|03/2024|
+|[Despesa Extra Orçamentária](https://www.pedrasdefogo.pb.gov.br/transparencia-inicio/despesa-extra-or%C3%A7ament%C3%A1ria)|Portal da Transparência|sim|não|csv|03/2024|
+|[Receita Orçamentária](https://www.pedrasdefogo.pb.gov.br/transparencia-inicio/receita-or%C3%A7ament%C3%A1ria)|Portal da Transparência|sim|não|csv|03/2024|
+|[Receita Extra Orçamentária](https://www.pedrasdefogo.pb.gov.br/transparencia-inicio/receita-extra-or%C3%A7ament%C3%A1ria)|Portal da Transparência|sim|não|csv|03/2024|
 
