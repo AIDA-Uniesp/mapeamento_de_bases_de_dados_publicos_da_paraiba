@@ -18,4 +18,4 @@
 
 |Dado|Fonte|Aberto|Detalhado|Tipo|Data Atualização|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Microdados ENEM 2022](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)| Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)|sim|sim|xls|Atualizado em 08/09/2023 11h29|
+|[Microdados ENEM 2022](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)| Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)|sim|sim|csv|Atualizado em 08/09/2023 11h29|
